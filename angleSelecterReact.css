@@ -1,0 +1,19 @@
+/* App.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.radio-buttons {
+    margin-bottom: 10px;
+}
+
+.slider {
+    margin: 10px 0;
+}
+
+.text-box {
+    margin-bottom: 10px;
+}
